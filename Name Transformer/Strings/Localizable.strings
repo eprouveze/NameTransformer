@@ -1,0 +1,21 @@
+/* App title */
+"appTitle" = "Name Transformer";
+
+/* Main view */
+"original" = "Original";
+"transformed" = "Transformed";
+"typeNamePlaceholder" = "Type a name";
+"transformAgain" = "Transform Again";
+
+/* History view */
+"history" = "History";
+"favorites" = "Favorites";
+"showFavoritesOnly" = "Show Favorites Only";
+"timeAgo" = "%@ ago";
+"Delete All" = "Delete All";
+"Delete" = "Delete";
+"Cancel" = "Cancel";
+"Are you sure you want to delete all entries? This cannot be undone." = "Are you sure you want to delete all entries? This cannot be undone.";
+"Delete Entry" = "Delete Entry";
+"Are you sure you want to delete this entry?" = "Are you sure you want to delete this entry?";
+ 

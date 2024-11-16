@@ -1,0 +1,16 @@
+"appTitle" = "Transformateur de Nom";
+"original" = "Original";
+"transformed" = "Transformé";
+"typeNamePlaceholder" = "Saisissez un nom";
+"transformAgain" = "Transformer à nouveau";
+"history" = "Historique";
+"favorites" = "Favoris";
+"showFavoritesOnly" = "Afficher les favoris uniquement";
+"timeAgo" = "il y a %@";
+"Delete All" = "Tout Supprimer";
+"Delete" = "Supprimer";
+"Cancel" = "Annuler";
+"Are you sure you want to delete all entries? This cannot be undone." = "Voulez-vous vraiment supprimer toutes les entrées ? Cette action est irréversible.";
+"Delete Entry" = "Supprimer l'entrée";
+"Are you sure you want to delete this entry?" = "Voulez-vous vraiment supprimer cette entrée ?";
+  
